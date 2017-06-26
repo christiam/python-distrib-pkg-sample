@@ -2,11 +2,8 @@
 sample-pkg
 ===============================
 
-.. image:: https://img.shields.io/travis/christiam/boiler-plate.svg
-        :target: https://travis-ci.org/christiam/boiler-plate
-
-.. image:: https://img.shields.io/pypi/v/boiler-plate.svg
-        :target: https://pypi.python.org/pypi/boiler-plate
+.. image:: https://img.shields.io/travis/christiam/python-distrib-pkg-sample.svg
+        :target: https://travis-ci.org/christiam/python-distrib-pkg-sample
 
 
 Sample distribution package
